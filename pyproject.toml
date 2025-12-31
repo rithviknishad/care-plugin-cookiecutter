@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
-    { name = "Open Health Care Network", email = "support@ohc.network" }
+    { name = "Open Healthcare Network", email = "support@ohc.network" }
 ]
 keywords = ["cookiecutter", "template", "package"]
 classifiers = [
